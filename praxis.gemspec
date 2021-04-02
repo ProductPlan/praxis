@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'praxis-mapper', '~> 4.3'
   spec.add_dependency 'praxis-blueprints', '~> 3.3'
   spec.add_dependency 'attributor', '~> 5.1'
-  spec.add_dependency 'thor', '~> 0.18'
+  spec.add_dependency 'thor'
   spec.add_dependency 'terminal-table', '~> 1.4'
   spec.add_dependency 'harness', '~> 2'
 
